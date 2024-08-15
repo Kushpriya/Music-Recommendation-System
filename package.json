@@ -3,11 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+
+    "node" : "20.11.0",
+    "npm" : "10.2.4"
+  },
   "scripts": {
+    "client-install" : "npm intall --prefix client",
     "client" : "cd client && npm run dev",
     "server" : "cd server && npm start",
     "python" :" cd recommendation && python api.py",
-    "start:all": "concurrently \"npm run client\" \"npm run server\" \"npm run python\""
+    "start": "concurrently \"npm run client\" \"npm run server\" \"npm run python\"",
+    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "keywords": [],
   "author": "",
