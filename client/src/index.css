@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+input{
+    height: 40px;
+    border: 2px solid rgba(128, 128, 128, 0.716);
+    padding: 10px 15px;
+}
+
+input:focus{
+    outline: none;
+    border: 2px solid black !important;
+} 
+.primary{
+    border: none !important;
+    padding: 7px 0;
+}
+thead{
+    background-color: lightgrey;
+    padding: 10px !important;
+}
+th{
+    padding: 10px !important;
+    text-align: left !important;
+
+}
+
+td{
+    padding: 10px !important;
+}
+
+tr{
+    border-bottom: 1px solid;
+}
+i{
+    cursor: pointer;
+}
+label[for='file']{
+    border: none !important;
+}
+textarea{
+    border: 2px solid rgba(128, 128, 128, 0.716);
+    padding: 10px 15px;
+}
