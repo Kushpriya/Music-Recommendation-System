@@ -21,7 +21,7 @@ function Login() {
             .then((result) => {
                 dispatch(HideLoading())
                 if (result.data.success) {
-                    toast.success(result.data.message)
+                    // toast.success(result.data.message)
                     
                     localStorage.setItem("token", result.data.data)
                     navigate('/')
