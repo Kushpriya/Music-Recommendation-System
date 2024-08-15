@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "65a7f669b1529ac1ad46ed44"
+  },
+  "name": "Bibek Gosai",
+  "email": "bibekgosai555@gmail.com",
+  "password": "Iamgosai123",
+  "playlists": [],
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-01-17T15:46:49.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T14:54:12.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65acfba9e26be995e33d2473"
+  },
+  "name": "hello",
+  "email": "hello",
+  "password": "hello",
+  "playlists": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-01-21T11:10:33.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T11:10:33.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae702bfb068128179df425"
+  },
+  "name": "bibek gosai",
+  "email": "test@gmail.com",
+  "password": "test",
+  "playlists": [
+    {
+      "name": "My Fav",
+      "songs": [
+        {
+          "_id": "65abd6bd80ae1089a6a116dc",
+          "title": "Paint The Town Red",
+          "artist": "Doja Cat",
+          "album": "Planet Her",
+          "year": 2023,
+          "duration": "3.42",
+          "src": "Paint The Town Red.mp3",
+          "lyrics": "Walk on by\\nWalk on by\\nWalk on by\\nWalk on by\\n[Chorus: Doja Cat]\\nYeah, bitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don??t care, I paint the town red\\nBitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don't care, I paint the town red\\n[Post-Chorus: Doja  Cat]\\nMm, she the devil\\nShe a bad lil?? bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle\\nMm, she the devil\\nShe a bad lil' bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle (Yeah, yeah)\\n[Verse 1: Doja Cat]\\nSaid my happiness is all of your misery\\nI put good dick all in my kidneys\\nThis Margiel' don't come with no jealousy\\nMy illness don't come with no remedy\\nI am so much fun without Hennessy\\nThey just want my love and my energy\\nYou can't talk no shit without penalties\\nBitch, I??m in yo?? shit if you send for me\\nI'm going to glow up one more time\\nTrust me, I have magical foresight\\nYou gon?? see me sleepin' in courtside\\nYou gon' see me eatin' ten more times\\nUgh, you can??t take that bitch nowhere\\nUgh, I look better with no hair\\nUgh, ain't no sign I can't smoke here\\nUgh, gimme the chance and I'll go there (Yeah)\\n[Chorus: Doja Cat]\\nYeah, bitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don't care, I paint the town red\\nBitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don't care, I paint the town red\\n[Post-Chorus: Doja Cat]\\nMm, she the devil\\nShe a bad lil' bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle\\nMm, she the devil\\nShe a bad lil' bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle (Yeah, yeah)\\n[Verse 2: Doja Cat]\\nSaid pop make money, now you try, bitch\\nYou could use a revamp with a new vibe, sis\\nI don't need a big feature or a new sidekick\\nI don't need a new fan 'cause my boo like it\\nI don't need to wear a wig to make you like it\\nI'm a two-time bitch, you ain't knew I'd win?\\nThrow a shot like you tryna have a food fight then\\nAll my opps waitin' for me to be you, I bet\\nSaid I got drive, I don't need a car\\nMoney really all that we fiendin' for\\nI'm doin' things they ain't seen before\\nFans ain't dumb, but extremists are\\nI'm a demon lord\\nFall off what? I ain't seen the horse\\nCalled your bluff, better cite the source\\nFame ain't somethin' that I need no more\\n[Chorus: Doja Cat]\\n'Cause, bitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don't care, I paint the town red\\nBitch, I said what I said\\nI'd rather be famous instead\\nI let all that get to my head\\nI don't care, I paint the town red\\n[Post-Chorus: Doja Cat]\\nMm, she the devil\\nShe a bad lil' bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle\\nMm, she the devil\\nShe a bad lil' bitch, she a rebel\\nShe put her foot to the pedal\\nIt'll take a whole lot for me to settle\\n[Outro: Dionne Warwick]\\nWalk on by\\nWalk on by\\nWalk on by\\nWalk on by\\nWalk on by",
+          "fullPath": "C:\\Music\\server\\uploads\\Paint The Town Red.mp3"
+        },
+        {
+          "_id": "65abd6bd80ae1089a6a116d9",
+          "title": "Cruel Summer",
+          "artist": "Taylor Swift",
+          "album": "Lover",
+          "year": 2019,
+          "duration": "2.58",
+          "src": "Cruel-Summer.mp3",
+          "lyrics": "(Yeah, yeah, yeah, yeah)\\n\\n[Verse 1]\\nFever dream high in the quiet of the night\\nYou know that I caught it (Oh yeah, you're right, I want it)\\nBad, bad boy, shiny toy with a price\\nYou know that I bought it (Oh yeah, you're right, I want it)\\n\\n[Pre-Chorus]\\nKilling me slow, out the window\\nI'm always waiting for you to be waiting below\\nDevils roll the dice, angels roll their eyes\\nWhat doesn't kill me makes me want you more\\n\\n[Chorus]\\nAnd it's new, the shape of your body\\nIt's blue, the feeling I've got\\nAnd it's ooh, woah-oh\\nIt's a cruel summer\\nIt's cool, that's what I tell 'em\\nNo rules in breakable heaven\\nBut ooh, woah-oh\\nIt's a cruel summer with you\\n\\n[Verse 2]\\nHang your head low in the glow of the vending machine\\nI'm not dying (Oh yeah, you're right, I want it)\\nWe say that we'll just screw it up in these trying times\\nWe're not trying (Oh yeah, you're right, I want it)\\n\\n[Pre-Chorus]\\nSo cut the headlights, summer's a knife\\nI'm always waiting for you just to cut to the bone\\nDevils roll the dice, angels roll their eyes\\nAnd if I bleed, you'll be the last to know, oh\\n\\n[Chorus]\\nIt's new, the shape of your body\\nIt's blue, the feeling I've got\\nAnd it's ooh, woah-oh\\nIt's a cruel summer\\nIt's cool, that's what I tell 'em\\nNo rules in breakable heaven\\nBut ooh, woah-oh\\nIt's a cruel summer with you\\n\\n[Bridge]\\nI'm drunk in the back of the car\\nAnd I cried like a baby comin' home from the bar (Oh)\\nSaid, 'I'm fine,' but it wasn't true\\nI don't wanna keep secrets just to keep you\\nAnd I snuck in through the garden gate\\nEvery night that summer just to seal my fate (Oh)\\nAnd I scream, 'For whatever it's worth\\nI love you, ain't that the worst thing you ever heard?'\\nHe looks up, grinnin' like a devil\\n\\n[Chorus]\\nIt's new, the shape of your body\\nIt's blue, the feeling I've got\\nAnd it's ooh, woah-oh\\nIt's a cruel summer\\nIt's cool, that's what I tell 'em\\nNo rules in breakable heaven\\nBut ooh, woah-oh\\nIt's a cruel summer with you\\n\\n[Outro]\\nI'm drunk in the back of the car\\nAnd I cried like a baby comin' home from the bar (Oh)\\nSaid, 'I'm fine,' but it wasn't true\\nI don't wanna keep secrets just to keep you\\nAnd I snuck in through the garden gate\\nEvery night that summer just to seal my fate (Oh)\\nAnd I scream, 'For whatever it's worth\\nI love you, ain't that the worst thing you ever heard?'\\n(Yeah, yeah, yeah, yeah",
+          "fullPath": "C:\\Music\\server\\uploads\\Cruel-Summer.mp3"
+        },
+        {
+          "_id": "65abd6bd80ae1089a6a116dd",
+          "title": "Snooze",
+          "artist": "SZA",
+          "album": "Ctrl ",
+          "year": 2023,
+          "duration": "3.21",
+          "src": "Snooze.mp3",
+          "lyrics": "I'll touch that fire for you I do that three-four times again, I testify for you I told that lie, I'd kill that bitch I do what all of them around you scared to do, I'm not Long as you juggin' out here for me, I got it Mobbing, scheming, looting, hide your bodies Long as you dreaming 'bout me, ain't no problem I don't got nobody, just with you right now Tell the truth, I look better under you I can't lose when I'm with you How can I snooze and miss the moment? You just too important Nobody do body like you do I can't lose when I'm with you I can't just snooze and miss the moment You just too important Nobody do body like you do, you do In the droptop ride with you, I feel like Scarface (Scarface) Like the white bitch with the bob, I'll be your main one (main one) Let's take this argument back up to my place (my place) Sex remind you, I'm non violent, I'm your day one We ain't had shit, yeah, it was magic, yeah Smash and grab shit, yeah Nasty habits take a hold when you not here Ain't a home when you not here Hard to grow when you not here, I'm sayin' I can't lose when I'm with you How can I snooze and miss the moment? You just too important Nobody do body like you do I can't lose when I'm with you How can I snooze and miss the moment? You just too important Nobody do body like you do, you do Main one, riding How you fronting on me and I'm the main one trying? How you blame it on me and you the main one lying? How you threatening to leave and I'm the main one crying? Just trying to be your everything Main one, riding How you fronting on me and I'm the main one trying? How you blame it on me and you the main one lying? How you threatening to leave and I'm the main one crying? I can't lose when I'm with you How can I snooze and miss the moment? You just too important Nobody do body like you do I can't lose when I'm with you How can I snooze and miss the moment? You just too important Nobody do body like you do, you do Ah, ah, ah, ah I think I know, woah, oh, oh, oh See, no, I can lose I think I know, ooh-woah, ooh-woah, oh, oh",
+          "fullPath": "C:\\Music\\server\\uploads\\Snooze.mp3"
+        },
+        {
+          "_id": "65abd6bd80ae1089a6a116da",
+          "title": "Greedy",
+          "artist": "Tate McRae",
+          "album": "Greedy",
+          "year": 2023,
+          "duration": "2.11",
+          "src": "Greedy.mp3",
+          "lyrics": "(Woo)\\n\\n[Verse 1]\\nHe said, \\\"Are you serious? I've tried, but I can't figure out\\nI've been next to you all night and still don't know what you're about\\nYou keep ta- (Ta-ta-), talkin', but not much comin' out your mouth\\nCan't you tell that I want you?\", I say, yeah\\n\\n[Chorus]\\nI would want myself\\nBaby, please believe me\\nI'll put you through hell\\nJust to know me, yeah, yeah\\nSo sure of yourself\\nBaby, don't get greedy\\nThat shit won't end well\\n(No, it won't) End well\\n\\n[Post-Chorus]\\n(Uh-uh, uh-uh-uh, uh-uh, woo)\\n\\n[Verse 2]\\nI see you eyein' me down, but you'll never know much past my name\\nOr how I'm runnin' this room around and that I'm still half your age\\nYeah, you're loo- (Loo-loo-), lookin' at me like I'm some sweet escape\\nObvious that you want me, but I said\\n\\n[Chorus]\\nI would want myself\\nBaby, please believe me\\nI'll put you through hell\\nJust to know me, yeah, yeah\\nSo sure of yourself\\nBaby, don't get greedy\\nThat shit won't end well\\n(No, it won't) End well\\n\\n[Bridge]\\nHe said, \\\"I'm just curious, is this for real or just an act?\\nCan't tell if you love or hate me, never met someone like that\\nDrive me so (So, so) crazy, did you know you got that effect?\\\"\\nI said, \\\"Lemme check, yeah\\\"\\n\\n[Chorus]\\nI would want myself\\nBaby, please believe me\\nI'll put you through hell\\nJust to know me, yeah, yeah\\nSo sure of yourself\\nBaby, don't get greedy\\nThat shit won't end well\\n(No, it won't) End well\\n\\n[Outro]\\n(I would want myself)\\n(I would want myself)\\nI would want myself\\n(I would want myself)\\n(I would want myself)\\n(Uh-uh, uh-uh-uh, uh)\\n",
+          "fullPath": "C:\\Music\\server\\uploads\\Greedy.mp3"
+        },
+        {
+          "_id": "65abd6bd80ae1089a6a116db",
+          "title": "I Remember Everything",
+          "artist": "Zach Bryan Featuring Kacey Musgraves",
+          "album": "Zach Bryan",
+          "year": 2023,
+          "duration": "3.2",
+          "src": "I Remember Everything.mp3",
+          "lyrics": "Rotgut whiskey's gonna ease my mind\\nA beach towel rests on the dryin' line\\nDo I remind you of your daddy in his '88 Ford?\\nLabrador hangin' out the passenger door\\nThe sand from your hair is blowin' in my eyes\\nBlame it on the beach, grown men don't cry\\nDo you remember that beat down basement couch?\\nI'd sing you my love songs and you'd tell me about\\nHow your mama ran off and pawned her ring\\nI remember, I remember everything\\n\\n[Chorus: Zach Bryan]\\nA cold shoulder at closing time\\nYou were beggin' me to stay 'til the sun rose\\nStrange words come on out\\nOf a grown man's mouth when his mind's broke\\nPictures and passin' time\\nYou only smile like that when you're drinkin'\\nI wish I didn't, but I do\\nRemember every moment on the nights with you\\n\\n[Verse 2: Kacey Musgraves]\\nYou're drinkin' everything to ease your mind\\nBut when the hell are you gonna ease mine?\\nYou're like concrete feet in the summer heat\\nIt burns like hell when two souls meet\\nNo, you'll never be the man that you always swore\\nBut I'll remember you singin' in that '88 Ford\\n\\n[Chorus: Kacey Musgraves, Both, Zach Bryan]\\nA cold shoulder at closing time\\nYou were beggin' me to stay 'til the sun rose\\nStrange words come on out\\nOf a grown man's mouth when his mind's broke\\nPictures and passin' time\\nYou only smile like that when you're drinkin'\\nI wish I didn't, but I do\\nRemember every moment on the nights with you\\nCold shoulder at closing time\\nYou were beggin' me to stay 'til the sun rose\\nStrange words come on out\\nOf a grown man's mouth when his mind's broke\\nPictures and passin' time\\nYou only smile like that when you're drinkin'\\nI wish I didn't, but I do\\nRemember every moment on the nights with you\\n\\n[Outro: Zach Bryan]\\nRotgut whiskey's gonna ease my mind\\nBeach towel rests on the dryin' line\\nDo I remind you of your daddy in my '88 Ford?\\nLabrador hangin' out the passenger door\\n",
+          "fullPath": "C:\\Music\\server\\uploads\\I Remember Everything.mp3"
+        },
+        {
+          "_id": "65abd6bd80ae1089a6a116de",
+          "title": "Water",
+          "artist": "Tyla",
+          "album": "Tyla",
+          "year": 2023,
+          "duration": "3",
+          "src": "Water.mp3",
+          "lyrics": "Make me sweat, make me hotter\\nMake me lose my breath, make me water\\nMake me sweat, make me hotter\\nMake me lose my breath, make me water\\n\\n[Verse 1]\\nNormally, I can keep my cool\\nBut tonight, I'm wildin'\\nI'ma be (Yeah) in a dangerous mood\\nCan you match my timing? (Mm, mm)\\nTellin' me (Yeah) that you really 'bout it\\nWhy try hide it? Ooh\\nTalk is cheap, so show me\\nThat you understand how I like it\\n\\n[Pre-Chorus]\\nCan you blow my mind?\\nSet off my whole body\\nIf I give you my time (Ooh)\\nCan you snatch my soul from me?\\nI don't wanna wait, come take it\\nTake me where I ain't been before\\nCan you blow my mind?\\nSet off my whole body, whole body\\n\\n[Chorus]\\nMake me sweat, make me hotter\\nMake me lose my breath, make me water\\nMake me sweat, make me hotter\\nMake me lose my breath, make me water\\n\\n[Verse 2]\\nHopefully you can last all night\\nDon't get too excited (Ooh)\\nOh, privacy (Mm), you ain't gotta go nowhere\\nYou can stay inside it\\n\\n[Pre-Chorus]\\nCan you blow my mind? (Oh)\\nSet off my whole body\\nIf I give you my time (If I give you my time)\\nCan you snatch my soul from me?\\nI don't wanna wait, come take it\\nTake me where I ain't been before (Before)\\nCan you blow my mind?\\nSet off my whole body, whole body (Hayibo)\\n\\n[Chorus]\\nMake me sweat, make me hotter (Hotter)\\nMake me lose my breath, make me water\\nMake me sweat (Sweat), make me hotter (Hotter)\\nMake me lose my breath, make me water (Make me sweat)\\nMake me sweat, make me hotter (Hotter)\\nMake me lose my breath, make me water\\nMake me sweat (Sweat), make me hotter (Hotter)\\nMake me lose my breath, make me water\\n\\n[Outro]\\nMake me sweat, make me hotter\\nMake me lose my breath, make me water\\nMake me sweat, make me hotter\\nMake me lose my breath, make me water",
+          "fullPath": "C:\\Music\\server\\uploads\\Water.mp3"
+        }
+      ]
+    }
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-01-22T13:39:55.081Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T14:52:44.890Z"
+  },
+  "__v": 0
+}]
